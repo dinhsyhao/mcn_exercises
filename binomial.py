@@ -20,7 +20,7 @@ def infoMeasure(n, p, N):
 
 def sumProb(N, p):
 	'''
-	Returns sum of probs of Binominal info. source according to
+	Returns sum of probs of Binomial info. source according to
 		N (int): number of trials
 		p (float): success probability for each trial
 	'''
@@ -35,7 +35,7 @@ def sumProb(N, p):
 
 def approxEntropy(N, p):
 	'''
-	Returns approximate Entropy of Binominal info. source according to
+	Returns approximate Entropy of Binomial info. source according to
 
 		N (int): number of trials
 		p (float): succes probability for each trial
